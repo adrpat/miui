@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Localização de rede</string>
+    <string name="location_warning_title">Autorizada a localização</string>
+    <string name="location_warning_title_first">Autorizada a localização</string>
+    <string name="location_warning_title_close">Autorizada a localização</string>
+    <string name="location_warning_message">"Quando a função de NLP (Network Location Provider) é aberta, vai permitir que o serviço Baidu NPL recolha dados de localização anônimos. Alguns dados podem ser criptografados e armazenados no seu dispositivo. Criptografia e recolha pode ocorrer mesmo quando não há aplicações em execução. Será cobrado por tráfego de dados. Os dados criptografados e recolhidos serão utilizados para obter as informações de local e melhorar o desempenho e precisão. Nós prometemos que os dados recolhidos não serão fornecidos a terceiros ou utilizados para outros fins, exceto a prestação de serviços. Os dados a serem recolhidos incluem o seguinte:
+- ID, força do sinal da WLAN AP a ser levantada a partir da periferia; 
+- ID, força do sinal a ser levantada a partir da estação de base periférica (para GSM); 
+- ID, força do sinal a ser levantada a partir da estação de base periférica (para CDMA);"</string>
+    <string name="location_close_warning_message">Fechar o serviço NetworkLocation, causará que qualquer aplicação não poderá obter a sua localização.</string>
+    <string name="location_first_warning_message">A fim de trazer-lhe uma melhor experiência de utilizador, o sistema abrirá serviço Localização de rede.</string>
+    <string name="agree">Concordo</string>
+    <string name="disagree">Discordo</string>
+    <string name="close_agree">Sim</string>
+    <string name="close_disagree">Não</string>
+</resources>
