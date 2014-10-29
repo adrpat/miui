@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="confirm_radio_title">O SIM foi desligado</string>
+    <string name="confirm_radio_msg">%1$s está desligado. Gostaria de activar este cartão SIM?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Modo Avião está activado</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s está desligado. Gostaria de desactivar o modo avião e activar este cartão SIM?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Desligar modo Avião?</string>
+    <string name="confirm_radio_msg_single">Desligar modo Avião?</string>
+    <string name="confirm_pin_title">Cartão SIM bloqueado</string>
+    <string name="confirm_pin_msg">O cartão SIM seleccionado será bloqueado.</string>
+    <string name="confirm_simmelock_title">SIM Bloqueado</string>
+    <string name="confirm_simmelock_msg">A ranhura do SIM seleccionado será bloqueado.</string>
+    <string name="confirm_fdn_title">Activar FDN</string>
+    <string name="confirm_fdn_msg">Os números de marcação fixa estão activados.</string>
+    <string name="confirm_roaming_title">Cuidado Roaming</string>
+    <string name="confirm_roaming_msg">O cartão SIM que está a usar está em roaming. Poderá incorrer em custos adicionais.Deseja de continuar?</string>
+    <string name="confirm_roaming_withPrefer_msg">O cartão SIM que a usar agora está em roaming. Gostaria de usar o seu SIM local?</string>
+    <string name="confirm_roaming_lbutton">Continuar</string>
+    <string name="confirm_roaming_rbutton">Cancelar</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Local SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Roaming SIM</string>
+    <string name="confirm_radio_lbutton">Ligar</string>
+    <string name="confirm_unlock_lbutton">Desbloquear</string>
+    <string name="confirm_unlock_fail">Cancelado</string>
+    <string name="confirm_turnon_radio_fail">Cancelado</string>
+    <string name="confirm_permit_roaming_fail">Cancelou esta acção no cartão SIM em roaming.</string>
+    <string name="confirm_sim_locked_message">O cartão SIM foi bloqueado permanentemente.</string>
+    <string name="confirm_slot_locked_message">A Ranhura do SIM foi bloqueado permanentemente.</string>
+</resources>
